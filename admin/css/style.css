@@ -1,0 +1,251 @@
+main {
+    margin: 0 auto; /* Elimina m��rgenes */
+    padding: 0; /* Elimina padding */
+}
+
+.container {
+    width: 40%;
+    margin: 0 auto; /* Elimina m��rgenes */
+    padding: 0; /* Elimina padding */
+}
+
+ .pagination {
+            text-align: right;
+            margin: 20px;
+        }
+        .pagination a {
+            text-decoration: none;
+            color: var(--color-primary, #F15A24);
+            padding: 5px 10px;
+            border: 1px solid var(--color-primary, #F15A24);
+            margin: 0 5px;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .pagination a:hover {
+            background-color: var(--color-secondary, #8DC63F);
+            color: white;
+        }
+        .pagination span {
+            padding: 5px 10px;
+            margin: 0 5px;
+            border-radius: 5px;
+            background-color: var(--color-primary, #F15A24);
+            color: white;
+        }
+
+/*Forms*/
+/* .container-form {
+    margin: 0 auto;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+     max-width: 700px;  /*Limita el ancho m��ximo  */
+   /* padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}  */
+
+.input-field {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.btn-submit {
+    width: 100%;
+    background-color: var(--color-primary); 
+    border-radius: 8px;
+    color: white;
+    border: none;
+    height: 40px;
+}
+
+.btn-submit hover{
+    background-color: var(--color-secondary); 
+}
+
+.button-principal {
+    width: 100%;
+    background-color: var(--color-primary);
+}
+
+        table {
+            margin: 0 auto; /* Centra la tabla horizontalmente */
+            border-collapse: collapse;
+            width: 80%;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+        th {
+            background-color: #f4f4f4;
+            font-weight: bold;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+        .button-container {
+            text-align: center;
+            margin: 20px 0;
+            display: flex;
+        }
+        .button-container button {
+            padding: 10px 20px;
+            margin: 5px;
+            border: none;
+            background-color: var(--color-primary, #F15A24);
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+            text-align: center;
+        }
+        .button-container button:hover {
+            background-color: var(--color-secondary, #8DC63F);
+        }
+
+/*Search Bar*/
+.search-bar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    padding: 10px;
+    /*background-color: var(--background-light-primary, rgba(241, 90, 36, 0.1));*/
+    border-radius: 8px;
+}
+
+.search-bar a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    color: var(--color-primary, #F15A24);
+    padding: 0 15px;
+    border: 1px solid var(--color-primary, #F15A24);
+    border-radius: 5px;
+    transition: background 0.3s ease;
+    height: 42px;
+    line-height: 1;
+}
+
+.search-bar a:hover {
+    background-color: var(--color-primary, #F15A24);
+    color: #fff;
+}
+
+.search-bar form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+}
+
+.search-bar input, .search-bar select, .search-bar button {
+    padding: 0 10px 0 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    height: 42px;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+}
+
+.search-bar input {
+    flex-grow: 1;
+    min-width: 180px;
+}
+
+.search-bar button {
+    background-color: var(--color-primary, #F15A24);
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    height: 42px;
+    line-height: 1;
+}
+
+.search-bar button:hover {
+    background-color: var(--color-secondary, #8DC63F);
+}
+
+/*Modal*/
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+    background: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.modal-content button {
+    margin: 5px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+
+}
+
+#confirmDelete {
+    /*background: var(--color-secondary);*/
+    /*color: white;*/
+
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    color: var(--color-primary, #F15A24);
+    padding: 0 15px;
+    border: 1px solid var(--color-primary, #F15A24);
+    border-radius: 5px;
+    transition: background 0.3s ease;
+    height: 42px;
+    line-height: 1;
+}
+
+#cancelDelete {
+    /*background: gray;*/
+    /*color: white;*/
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    color: var(--color-primary, #F15A24);
+    padding: 0 15px;
+    border: 1px solid var(--color-primary, #F15A24);
+    border-radius: 5px;
+    transition: background 0.3s ease;
+    height: 42px;
+    line-height: 1;
+       
+}
+@media only screen and (max-width: 800px) {
+    main {
+        width:95%;
+    }
+}
+    

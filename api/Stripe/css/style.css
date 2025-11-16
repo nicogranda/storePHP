@@ -1,0 +1,131 @@
+/* :root {
+    --color-primary: #f15a24;
+    --color-secondary: #d1441b;
+    --color-bg: #f4f4f4;
+    --color-text: #333333;
+    --color-input-bg: #f9f9f9;
+    --color-input-border: #cccccc;
+} */
+
+/* General */
+.body-container {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: var(--color-bg);
+}
+
+/* Contenedor del formulario */
+.form-container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+}
+
+/* Título */
+.form-title {
+    margin-bottom: 20px;
+    color: var(--color-text);
+    font-size: 1.5rem;
+}
+
+/* Input de la tarjeta */
+.card-input {
+    border: 1px solid var(--color-input-border);
+    padding: 10px;
+    border-radius: 5px;
+    background-color: var(--color-input-bg);
+    margin-bottom: 20px;
+}
+
+/* .cart-header{
+    background-color: var(--color-primary);
+    color: white;
+} */
+
+/* Table */
+.cart-table {
+    width: 100%;
+    border-collapse: collapse; /* elimina bordes dobles */
+    border: none;              /* sin borde exterior */
+    background: none;          /* sin fondo */
+    margin: 0;
+    padding: 0;
+    font-family: inherit;      /* hereda fuente del contenedor */
+}
+
+.cart-table th,
+.cart-table td {
+    border: none;              /* nada de bordes internos */
+    padding: 0.25rem 0.5rem;   /* un poco de espacio para leer */
+    text-align: left;
+    height: 50px;
+}
+
+.cart-table th {
+    font-weight: bold;
+    background-color: var(--color-primary);
+    color: #fff;
+}
+
+/* Botón */
+.mini-cart-btn-submit {
+    display: block;
+    margin: 0 auto;  
+    width: 60%;
+    background-color: var(--color-primary);
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-bottom: 20px;
+}
+
+.mini-cart-btn-submit:hover {
+    background-color: var(--color-scondary);
+}
+
+/* Botón */
+.btn-submit {
+    background-color: var(--color-secondary);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 100%;
+}
+
+.btn-submit:hover {
+    background-color: var(--color-primary);
+}
+
+.btn-delete {
+    background: none;       /* Sin fondo */
+    border: none;           /* Sin borde */
+    padding: 0;             /* Sin padding */
+    cursor: pointer;        /* Para que se vea clicable */
+    color: #808080;         /* Hereda el color del texto circundante */
+    font-size: 1rem;        /* Ajusta tamaño de la X */
+}
+
+
+/* Mensajes de error */
+.error-message {
+    color: red;
+    margin-top: 10px;
+    font-size: 0.9rem;
+}

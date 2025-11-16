@@ -1,0 +1,117 @@
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+    /* background-color: white; */
+    z-index: 1000;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+/* Logo centrado */
+.logo {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 200px;
+}
+
+/* Íconos de la derecha */
+#quote {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    font-size: 20px;
+    color: black;
+}
+
+/* Ajuste de los íconos */
+#quote i {
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+#quote i:hover {
+    color: var(--color-primary);
+}
+
+/* Burger menu alineado a la izquierda */
+.burger-menu {
+    position: relative;
+    width: 30px;
+    height: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    cursor: pointer;
+    z-index: 1100;
+}
+
+/* Barras del burger */
+.burger-menu .bar {
+    width: 100%;
+    height: 2px;
+    background-color: black;
+    transition: all 0.3s ease;
+}
+
+/* Estado activo (animación de la X) */
+.burger-menu.active .bar:nth-child(1) {
+    transform: rotate(45deg) translate(5px, 5px);
+}
+.burger-menu.active .bar:nth-child(2) {
+    opacity: 0;
+}
+.burger-menu.active .bar:nth-child(3) {
+    transform: rotate(-45deg) translate(5px, -5px);
+}
+
+/* Menú lateral (drawer) */
+.menu {
+    position: fixed;
+    top: 0;
+    left: -100%;
+    width: 250px;
+    height: 100vh;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding-top: 100px;
+    transition: left 0.3s ease;
+    z-index: 1001;
+}
+
+.menu.active {
+    left: 0;
+}
+
+/* Enlaces del menú lateral */
+.menu a {
+    color: black;
+    font-size: 18px;
+    text-decoration: none;
+    padding: 15px 25px;
+    display: block;
+}
+
+.menu a:hover {
+    color: black;
+    background-color: var(--color-primary);
+}
+
+/* Responsivo */
+@media (max-width: 768px) {
+    header {
+        padding: 0 15px;
+        height: 70px;
+    }
+    .logo {
+        width: 150px;
+    }
+}

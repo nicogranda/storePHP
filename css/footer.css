@@ -1,0 +1,208 @@
+footer {
+    position: relative;
+    /* background: black; */
+    color: var(--color-primary);
+    font-family: var(--font-primary);
+    width: 100%;
+    margin: 0 auto;
+}
+
+.list-items {
+    list-style-type: none; /* Eliminar vi単etas */
+    padding: 0; /* Eliminar padding predeterminado */
+    margin: 0; /* Eliminar margen predeterminado */
+}
+
+.list-items li {
+    text-decoration: none; /* Aplicar estilo si es necesario */
+    line-height: 1.5; /* Asegurar el mismo interlineado */
+}
+
+/* Opcionalmente, puedes agregar estilos adicionales para los enlaces */
+.list-items a {
+    text-decoration: none; /* Quitar subrayado de los enlaces */
+    color: inherit; /* Heredar el color del texto */
+    display: block; /* Asegurar que el enlace ocupe todo el espacio del li */
+}
+
+.info {
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: top;
+    align-content: stretch;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.information {
+    display: flex;
+    flex-direction: column; 
+    width: 22.5%;
+    font-size: 14px;
+}
+
+.info-title {
+    font-weight: 800;
+    padding: 0 0 10px 0;
+    text-align: center;
+}
+
+.information span, 
+.information ul li a {
+    text-decoration: none;
+    color: white;
+    text-align: left;
+}
+
+.information ul li a h3{
+    color: white;
+    font-size: 14px;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1.5;
+}
+
+#content_footer {
+    background:black;
+    font-family: Helvetica, sans-serif;
+    font-size: 1.0vw;
+}    
+     
+.legal { 
+    text-align: center;
+    position: relative;
+    width: 100%;
+    display: inline-block ;
+    text-align: center;
+    font-family: Helvetica;
+    /*font-size: 4vw;*/
+    color: white;
+    padding: 20 0 0 0;
+}
+     
+     .legal a {		
+             color: white;
+     }
+ 
+     .item{
+          display: inline-block ;
+          width: 19%;
+     }
+     
+     .item1{
+          display: inline-block ;
+          width: 10%;
+     }
+     
+     .item2{
+          display: inline-block ;
+          width: 15%;
+     }
+     
+  
+    .business-type a {
+        text-decoration: none;
+        color: white;
+    }
+    
+     #copyright { 
+             text-align: center;
+              position: relative;
+              width: 100%;
+             font-family: Helvetica, sans-serif;
+             display: inline-block ;
+             text-align: center;
+             font-size: 1vw; 
+             color: white;
+         }
+             
+     .brand {
+         text-align: center;
+         width: 100%;
+         font-family: var(--font-brand);
+         font-size: 2vw; 
+         color: white; 
+         }
+         
+     .business {
+         text-align: left;
+         color: white; 
+         font-family: Helvetica;
+         font-size: 1.00vw; 
+         padding: 0 0 0 20;
+         }
+     
+     .developer {
+         color: white; 
+         font-family: Helvetica;
+         font-size: 1vw; 
+         padding: 0 0 20px 50px;
+         
+         }
+
+     .agency {
+         width: 70px;
+         height: auto;
+     }	
+
+@media only screen and (max-width: 800px) {
+
+    .info {
+        display: flex;
+        flex-direction: column;
+        padding: 0 0 0 40px;
+        
+    }
+
+    .information {
+        width: 100%;
+    }
+    	
+    .info-title {
+        padding: 20px 0 0 0;
+    }
+    
+    .business-type {
+        text-align: left;
+    }
+    
+    
+    .info-address {
+        width: 80%;
+    }
+    
+	#copyright { 
+		font-size: 4vw; 
+		padding: 60px 0 0 0;
+    }	
+        
+	.brand {
+		text-align: center;
+		font-size: 8vw; 
+		color: white;
+    }
+			
+	.business {
+		padding: 0 0 20px 20px;
+	    text-align: left;
+		font-size: 4vw; 
+    }	
+    
+	.developer {
+		padding: 0 0 20px 20px;
+	    text-align: left;
+		font-size: 3.5vw; 
+	}		
+	
+	.agency {
+		width: 12%;
+		height: auto;
+	}	
+
+
+}

@@ -1,0 +1,697 @@
+[05-Feb-2023 11:03:57 UTC] PHP Warning:  require(../fpdf.php): Failed to open stream: No such file or directory in /home/r0npbgbcs3fr/public_html/sell/fpdf/ikusa.php on line 2
+[05-Feb-2023 11:03:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../fpdf.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r0npbgbcs3fr/public_html/sell/fpdf/ikusa.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/r0npbgbcs3fr/public_html/sell/fpdf/ikusa.php on line 2
+[05-Feb-2023 11:04:16 UTC] PHP Warning:  require(../fpdf.php): Failed to open stream: No such file or directory in /home/r0npbgbcs3fr/public_html/sell/fpdf/ikusa.php on line 2
+[05-Feb-2023 11:04:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../fpdf.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r0npbgbcs3fr/public_html/sell/fpdf/ikusa.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/r0npbgbcs3fr/public_html/sell/fpdf/ikusa.php on line 2
+[05-Feb-2023 11:04:18 UTC] PHP Warning:  require(../fpdf.php): Failed to open stream: No such file or directory in /home/r0npbgbcs3fr/public_html/sell/fpdf/ikusa.php on line 2
+[05-Feb-2023 11:04:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../fpdf.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r0npbgbcs3fr/public_html/sell/fpdf/ikusa.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/r0npbgbcs3fr/public_html/sell/fpdf/ikusa.php on line 2
+[05-Feb-2023 11:04:49 UTC] PHP Warning:  fopen(logo.png): Failed to open stream: No such file or directory in /home/r0npbgbcs3fr/public_html/sell/fpdf/fpdf.php on line 1275
+[05-Feb-2023 11:04:49 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: logo.png in /home/r0npbgbcs3fr/public_html/sell/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/r0npbgbcs3fr/public_html/sell/fpdf/fpdf.php(1277): FPDF->Error()
+#1 /home/r0npbgbcs3fr/public_html/sell/fpdf/fpdf.php(889): FPDF->_parsepng()
+#2 /home/r0npbgbcs3fr/public_html/sell/fpdf/ikusa.php(10): FPDF->Image()
+#3 /home/r0npbgbcs3fr/public_html/sell/fpdf/fpdf.php(336): PDF->Header()
+#4 /home/r0npbgbcs3fr/public_html/sell/fpdf/ikusa.php(36): FPDF->AddPage()
+#5 {main}
+  thrown in /home/r0npbgbcs3fr/public_html/sell/fpdf/fpdf.php on line 273
+[13-Sep-2024 10:05:19 UTC] PHP Warning:  include(../../configuration.inc.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 33
+[13-Sep-2024 10:05:19 UTC] PHP Warning:  include(): Failed opening '../../configuration.inc.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 33
+[13-Sep-2024 10:05:19 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 40
+[13-Sep-2024 10:05:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 40
+[13-Sep-2024 10:29:10 UTC] PHP Warning:  include(../../configuration.inc.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 33
+[13-Sep-2024 10:29:10 UTC] PHP Warning:  include(): Failed opening '../../configuration.inc.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 33
+[13-Sep-2024 10:29:10 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 40
+[13-Sep-2024 10:29:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 40
+[13-Sep-2024 10:29:24 UTC] PHP Warning:  include(../../configuration.inc.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 33
+[13-Sep-2024 10:29:24 UTC] PHP Warning:  include(): Failed opening '../../configuration.inc.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 33
+[13-Sep-2024 10:29:24 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 40
+[13-Sep-2024 10:29:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 40
+[13-Sep-2024 10:30:32 UTC] PHP Warning:  include(../../configuration.inc.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 33
+[13-Sep-2024 10:30:32 UTC] PHP Warning:  include(): Failed opening '../../configuration.inc.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 33
+[13-Sep-2024 10:30:32 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 40
+[13-Sep-2024 10:30:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 40
+[13-Sep-2024 10:31:42 UTC] PHP Warning:  include(../../configuration.inc.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 33
+[13-Sep-2024 10:31:42 UTC] PHP Warning:  include(): Failed opening '../../configuration.inc.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 33
+[13-Sep-2024 10:31:42 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 40
+[13-Sep-2024 10:31:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 40
+[13-Sep-2024 10:32:07 UTC] PHP Warning:  include(../../configuration.inc.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 33
+[13-Sep-2024 10:32:07 UTC] PHP Warning:  include(): Failed opening '../../configuration.inc.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 33
+[13-Sep-2024 10:32:07 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 40
+[13-Sep-2024 10:32:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 40
+[13-Sep-2024 10:32:59 UTC] PHP Warning:  include(../../databaase.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/require/fpdf/budget_pdf.php on line 7
+[13-Sep-2024 10:32:59 UTC] PHP Warning:  include(): Failed opening '../../databaase.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/require/fpdf/budget_pdf.php on line 7
+[13-Sep-2024 10:32:59 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/require/fpdf/budget_pdf.php on line 9
+[13-Sep-2024 10:32:59 UTC] PHP Warning:  Attempt to read property "connect_errno" on null in /home/ot2ryobi838h/public_html/admin/require/fpdf/budget_pdf.php on line 9
+[13-Sep-2024 10:41:47 UTC] PHP Warning:  include(../../configuration.inc.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 33
+[13-Sep-2024 10:41:47 UTC] PHP Warning:  include(): Failed opening '../../configuration.inc.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 33
+[13-Sep-2024 10:41:47 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 40
+[13-Sep-2024 10:41:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 40
+[13-Sep-2024 10:41:54 UTC] PHP Warning:  include(../../configuration.inc.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 33
+[13-Sep-2024 10:41:54 UTC] PHP Warning:  include(): Failed opening '../../configuration.inc.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 33
+[13-Sep-2024 10:41:54 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 40
+[13-Sep-2024 10:41:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 40
+[13-Sep-2024 10:54:07 UTC] PHP Warning:  include(../../configuration.inc.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 33
+[13-Sep-2024 10:54:07 UTC] PHP Warning:  include(): Failed opening '../../configuration.inc.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 33
+[13-Sep-2024 10:54:07 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 40
+[13-Sep-2024 10:54:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 40
+[13-Sep-2024 10:55:39 UTC] PHP Warning:  include(../../configuration.inc.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 33
+[13-Sep-2024 10:55:39 UTC] PHP Warning:  include(): Failed opening '../../configuration.inc.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 33
+[13-Sep-2024 10:55:39 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 40
+[13-Sep-2024 10:55:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 40
+[13-Sep-2024 10:55:45 UTC] PHP Warning:  include(../../configuration.inc.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 33
+[13-Sep-2024 10:55:45 UTC] PHP Warning:  include(): Failed opening '../../configuration.inc.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 33
+[13-Sep-2024 10:55:45 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 40
+[13-Sep-2024 10:55:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 40
+[13-Sep-2024 11:08:35 UTC] PHP Warning:  include(../../configuration.inc.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 33
+[13-Sep-2024 11:08:35 UTC] PHP Warning:  include(): Failed opening '../../configuration.inc.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 33
+[13-Sep-2024 11:08:35 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 40
+[13-Sep-2024 11:08:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/require/fpdf/agreement.php on line 40
+[13-Sep-2024 11:23:11 UTC] PHP Warning:  Undefined variable $logoPath in /home/ot2ryobi838h/public_html/admin/require/fpdf/budget_pdf.php on line 48
+[13-Sep-2024 11:23:11 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Image file name is empty in /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php(872): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/require/fpdf/budget_pdf.php(48): FPDF->Image()
+#2 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php on line 273
+[13-Sep-2024 11:24:14 UTC] PHP Warning:  Undefined variable $logoPath in /home/ot2ryobi838h/public_html/admin/require/fpdf/budget_pdf.php on line 34
+[13-Sep-2024 11:24:14 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Image file name is empty in /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php(872): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/require/fpdf/budget_pdf.php(34): FPDF->Image()
+#2 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php on line 273
+[13-Sep-2024 11:25:51 UTC] PHP Warning:  fopen(../../../../images/logo.png): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php on line 1275
+[13-Sep-2024 11:25:51 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../../../../images/logo.png in /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php(1277): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php(889): FPDF->_parsepng()
+#2 /home/ot2ryobi838h/public_html/admin/require/fpdf/budget_pdf.php(38): FPDF->Image()
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php on line 273
+[13-Sep-2024 11:27:11 UTC] PHP Warning:  fopen(../../../../images/logo.png): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php on line 1275
+[13-Sep-2024 11:27:11 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../../../../images/logo.png in /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php(1277): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php(889): FPDF->_parsepng()
+#2 /home/ot2ryobi838h/public_html/admin/require/fpdf/budget_pdf.php(38): FPDF->Image()
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php on line 273
+[13-Sep-2024 12:10:48 UTC] PHP Warning:  fopen(../../../../images/logo.png): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php on line 1275
+[13-Sep-2024 12:10:48 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../../../../images/logo.png in /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php(1277): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php(889): FPDF->_parsepng()
+#2 /home/ot2ryobi838h/public_html/admin/require/fpdf/budget_pdf.php(38): FPDF->Image()
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php on line 273
+[13-Sep-2024 12:18:58 UTC] PHP Warning:  include(/home/ot2ryobi838h/public_html/admin/require/fpdf/font/helveticar.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php on line 1138
+[13-Sep-2024 12:18:58 UTC] PHP Warning:  include(): Failed opening '/home/ot2ryobi838h/public_html/admin/require/fpdf/font/helveticar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php on line 1138
+[13-Sep-2024 12:18:58 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Could not include font definition file in /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php(1140): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php(461): FPDF->_loadfont()
+#2 /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php(509): FPDF->AddFont()
+#3 /home/ot2ryobi838h/public_html/admin/require/fpdf/budget_pdf.php(41): FPDF->SetFont()
+#4 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php on line 273
+[13-Sep-2024 12:19:10 UTC] PHP Warning:  include(/home/ot2ryobi838h/public_html/admin/require/fpdf/font/helvetican.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php on line 1138
+[13-Sep-2024 12:19:10 UTC] PHP Warning:  include(): Failed opening '/home/ot2ryobi838h/public_html/admin/require/fpdf/font/helvetican.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php on line 1138
+[13-Sep-2024 12:19:10 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Could not include font definition file in /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php(1140): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php(461): FPDF->_loadfont()
+#2 /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php(509): FPDF->AddFont()
+#3 /home/ot2ryobi838h/public_html/admin/require/fpdf/budget_pdf.php(41): FPDF->SetFont()
+#4 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php on line 273
+[13-Sep-2024 12:19:25 UTC] PHP Warning:  include(/home/ot2ryobi838h/public_html/admin/require/fpdf/font/helveticar.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php on line 1138
+[13-Sep-2024 12:19:25 UTC] PHP Warning:  include(): Failed opening '/home/ot2ryobi838h/public_html/admin/require/fpdf/font/helveticar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php on line 1138
+[13-Sep-2024 12:19:25 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Could not include font definition file in /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php(1140): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php(461): FPDF->_loadfont()
+#2 /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php(509): FPDF->AddFont()
+#3 /home/ot2ryobi838h/public_html/admin/require/fpdf/budget_pdf.php(41): FPDF->SetFont()
+#4 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php on line 273
+[13-Sep-2024 20:29:26 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php(1057): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/ot2ryobi838h/public_html/admin/require/fpdf/budget_pdf.php(141): FPDF->Output()
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/require/fpdf/fpdf.php on line 273
+[13-Sep-2024 23:39:42 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in /home/ot2ryobi838h/public_html/admin/views/sales/fpdf/budget_pdf.php on line 78
+[13-Sep-2024 23:40:00 UTC] PHP Warning:  Undefined array key "address" in /home/ot2ryobi838h/public_html/admin/views/sales/fpdf/budget_pdf.php on line 97
+[13-Sep-2024 23:40:00 UTC] PHP Warning:  Undefined array key "city" in /home/ot2ryobi838h/public_html/admin/views/sales/fpdf/budget_pdf.php on line 99
+[13-Sep-2024 23:40:00 UTC] PHP Warning:  Undefined array key "zip" in /home/ot2ryobi838h/public_html/admin/views/sales/fpdf/budget_pdf.php on line 101
+[13-Sep-2024 23:40:00 UTC] PHP Warning:  Undefined array key "country" in /home/ot2ryobi838h/public_html/admin/views/sales/fpdf/budget_pdf.php on line 103
+[13-Sep-2024 23:40:27 UTC] PHP Warning:  Undefined array key "address" in /home/ot2ryobi838h/public_html/admin/views/sales/fpdf/budget_pdf.php on line 97
+[13-Sep-2024 23:40:27 UTC] PHP Warning:  Undefined array key "city" in /home/ot2ryobi838h/public_html/admin/views/sales/fpdf/budget_pdf.php on line 99
+[13-Sep-2024 23:40:27 UTC] PHP Warning:  Undefined array key "zip" in /home/ot2ryobi838h/public_html/admin/views/sales/fpdf/budget_pdf.php on line 101
+[13-Sep-2024 23:40:27 UTC] PHP Warning:  Undefined array key "country" in /home/ot2ryobi838h/public_html/admin/views/sales/fpdf/budget_pdf.php on line 103
+[14-Sep-2024 00:04:43 UTC] PHP Warning:  include(../../../partials/database.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/sales/fpdf/budget_pdf.php on line 7
+[14-Sep-2024 00:04:43 UTC] PHP Warning:  include(): Failed opening '../../../partials/database.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/sales/fpdf/budget_pdf.php on line 7
+[14-Sep-2024 00:04:43 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/sales/fpdf/budget_pdf.php on line 10
+[14-Sep-2024 00:04:43 UTC] PHP Warning:  Attempt to read property "connect_errno" on null in /home/ot2ryobi838h/public_html/admin/sales/fpdf/budget_pdf.php on line 10
+[14-Sep-2024 00:04:43 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/sales/fpdf/budget_pdf.php on line 79
+[14-Sep-2024 00:04:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ot2ryobi838h/public_html/admin/sales/fpdf/budget_pdf.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/sales/fpdf/budget_pdf.php on line 79
+[14-Sep-2024 00:05:24 UTC] PHP Warning:  Undefined array key "address" in /home/ot2ryobi838h/public_html/admin/sales/fpdf/budget_pdf.php on line 97
+[14-Sep-2024 00:05:24 UTC] PHP Warning:  Undefined array key "city" in /home/ot2ryobi838h/public_html/admin/sales/fpdf/budget_pdf.php on line 99
+[14-Sep-2024 00:05:24 UTC] PHP Warning:  Undefined array key "zip" in /home/ot2ryobi838h/public_html/admin/sales/fpdf/budget_pdf.php on line 101
+[14-Sep-2024 00:05:24 UTC] PHP Warning:  Undefined array key "country" in /home/ot2ryobi838h/public_html/admin/sales/fpdf/budget_pdf.php on line 103
+[15-Sep-2024 14:43:22 UTC] PHP Warning:  Undefined array key "zip" in /home/ot2ryobi838h/public_html/admin/sales/fpdf/budget_pdf.php on line 101
+[15-Sep-2024 14:43:22 UTC] PHP Warning:  Undefined array key "country" in /home/ot2ryobi838h/public_html/admin/sales/fpdf/budget_pdf.php on line 103
+[16-Sep-2024 20:37:56 UTC] PHP Warning:  Undefined array key "zip" in /home/ot2ryobi838h/public_html/admin/sales/fpdf/budget_pdf.php on line 101
+[16-Sep-2024 20:37:56 UTC] PHP Warning:  Undefined array key "country" in /home/ot2ryobi838h/public_html/admin/sales/fpdf/budget_pdf.php on line 103
+[18-Sep-2024 18:43:10 UTC] PHP Warning:  Undefined array key "zip" in /home/ot2ryobi838h/public_html/admin/sales/fpdf/budget_pdf.php on line 101
+[18-Sep-2024 18:43:10 UTC] PHP Warning:  Undefined array key "country" in /home/ot2ryobi838h/public_html/admin/sales/fpdf/budget_pdf.php on line 103
+[18-Sep-2024 18:52:40 UTC] PHP Warning:  Undefined array key "zip" in /home/ot2ryobi838h/public_html/admin/sales/fpdf/budget_pdf.php on line 101
+[18-Sep-2024 18:52:40 UTC] PHP Warning:  Undefined array key "country" in /home/ot2ryobi838h/public_html/admin/sales/fpdf/budget_pdf.php on line 103
+[19-Sep-2024 20:51:30 UTC] PHP Warning:  include(../../partials/database.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 7
+[19-Sep-2024 20:51:30 UTC] PHP Warning:  include(): Failed opening '../../partials/database.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 7
+[19-Sep-2024 20:51:30 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 10
+[19-Sep-2024 20:51:30 UTC] PHP Warning:  Attempt to read property "connect_errno" on null in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 10
+[19-Sep-2024 20:51:31 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 79
+[19-Sep-2024 20:51:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 79
+[19-Sep-2024 20:53:25 UTC] PHP Warning:  include(../../partials/database.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 7
+[19-Sep-2024 20:53:25 UTC] PHP Warning:  include(): Failed opening '../../partials/database.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 7
+[19-Sep-2024 20:53:25 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 10
+[19-Sep-2024 20:53:25 UTC] PHP Warning:  Attempt to read property "connect_errno" on null in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 10
+[19-Sep-2024 20:53:25 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 79
+[19-Sep-2024 20:53:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 79
+[19-Sep-2024 20:53:33 UTC] PHP Warning:  include(../../partials/database.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 7
+[19-Sep-2024 20:53:33 UTC] PHP Warning:  include(): Failed opening '../../partials/database.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 7
+[19-Sep-2024 20:53:33 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 10
+[19-Sep-2024 20:53:33 UTC] PHP Warning:  Attempt to read property "connect_errno" on null in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 10
+[19-Sep-2024 20:53:33 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 79
+[19-Sep-2024 20:53:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 79
+[19-Sep-2024 20:53:57 UTC] PHP Warning:  include(../../partials/database.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 7
+[19-Sep-2024 20:53:57 UTC] PHP Warning:  include(): Failed opening '../../partials/database.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 7
+[19-Sep-2024 20:53:57 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 10
+[19-Sep-2024 20:53:57 UTC] PHP Warning:  Attempt to read property "connect_errno" on null in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 10
+[19-Sep-2024 20:53:57 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 79
+[19-Sep-2024 20:53:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 79
+[19-Sep-2024 21:06:54 UTC] PHP Warning:  Undefined array key "zip" in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 101
+[19-Sep-2024 21:06:54 UTC] PHP Warning:  Undefined array key "country" in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 103
+[19-Sep-2024 21:08:44 UTC] PHP Warning:  Undefined array key "zip" in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 103
+[19-Sep-2024 21:08:44 UTC] PHP Warning:  Undefined array key "country" in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 105
+[19-Sep-2024 21:12:19 UTC] PHP Warning:  Undefined array key "zip" in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 103
+[19-Sep-2024 21:12:19 UTC] PHP Warning:  Undefined array key "country" in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 105
+[19-Sep-2024 21:13:49 UTC] PHP Warning:  Undefined array key "zip" in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 103
+[19-Sep-2024 21:13:49 UTC] PHP Warning:  Undefined array key "country" in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 105
+[19-Sep-2024 21:14:48 UTC] PHP Warning:  Undefined array key "zip" in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 103
+[19-Sep-2024 21:18:39 UTC] PHP Warning:  Undefined array key "zip" in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 103
+[19-Sep-2024 21:21:58 UTC] PHP Warning:  Undefined array key "zip" in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 102
+[19-Sep-2024 21:25:10 UTC] PHP Warning:  Undefined array key "zip" in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 104
+[19-Sep-2024 21:27:11 UTC] PHP Warning:  Undefined array key "zip" in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 101
+[19-Sep-2024 22:16:16 UTC] PHP Warning:  Undefined variable $quote_id in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 48
+[19-Sep-2024 22:16:16 UTC] PHP Warning:  Undefined array key "quore_id" in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 82
+[19-Sep-2024 22:16:16 UTC] PHP Warning:  Undefined variable $quote_id in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 86
+[19-Sep-2024 22:16:16 UTC] PHP Warning:  Undefined variable $quote_id in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 151
+[19-Sep-2024 22:18:47 UTC] PHP Warning:  Undefined variable $quote_id in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 48
+[19-Sep-2024 22:20:49 UTC] PHP Warning:  Undefined variable $quote_id in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 48
+[19-Sep-2024 22:24:24 UTC] PHP Warning:  Undefined variable $quote_id in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 48
+[19-Sep-2024 22:24:50 UTC] PHP Warning:  Undefined variable $quote_id in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 48
+[19-Sep-2024 22:25:07 UTC] PHP Warning:  Undefined variable $quote_id in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 48
+[19-Sep-2024 22:25:24 UTC] PHP Warning:  Undefined variable $quote_id in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 48
+[19-Sep-2024 22:25:43 UTC] PHP Warning:  Undefined variable $quote_id in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 48
+[19-Sep-2024 22:26:04 UTC] PHP Warning:  Undefined variable $quote_id in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 48
+[19-Sep-2024 22:26:34 UTC] PHP Warning:  Undefined variable $quote_id in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 48
+[19-Sep-2024 22:26:51 UTC] PHP Warning:  Undefined variable $quote_id in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 48
+[20-Sep-2024 07:10:49 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 154
+[20-Sep-2024 07:10:49 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 167
+[20-Sep-2024 07:12:03 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 154
+[20-Sep-2024 07:12:03 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 167
+[20-Sep-2024 07:12:56 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 154
+[20-Sep-2024 07:12:56 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 167
+[20-Sep-2024 07:13:02 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 154
+[20-Sep-2024 07:13:02 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 167
+[20-Sep-2024 07:13:36 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 154
+[20-Sep-2024 07:13:36 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 167
+[20-Sep-2024 07:13:58 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 154
+[20-Sep-2024 07:13:58 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 167
+[20-Sep-2024 07:14:56 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 154
+[20-Sep-2024 07:14:56 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 167
+[20-Sep-2024 07:16:01 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 154
+[20-Sep-2024 07:16:01 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 167
+[20-Sep-2024 07:17:05 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 154
+[20-Sep-2024 07:17:05 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 167
+[20-Sep-2024 07:17:45 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 154
+[20-Sep-2024 07:17:45 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 167
+[20-Sep-2024 07:18:46 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 154
+[20-Sep-2024 07:18:46 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 167
+[20-Sep-2024 07:19:15 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 154
+[20-Sep-2024 07:19:15 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 167
+[20-Sep-2024 07:20:07 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 154
+[20-Sep-2024 07:20:07 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 167
+[20-Sep-2024 07:23:45 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 153
+[20-Sep-2024 07:23:45 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 166
+[20-Sep-2024 07:24:13 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 153
+[20-Sep-2024 07:24:13 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 166
+[20-Sep-2024 07:27:04 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 153
+[20-Sep-2024 07:27:04 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 166
+[20-Sep-2024 07:28:53 UTC] PHP Parse error:  syntax error, unexpected integer "1", expecting ")" in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 175
+[20-Sep-2024 07:29:11 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 153
+[20-Sep-2024 07:29:11 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 166
+[20-Sep-2024 07:29:42 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 153
+[20-Sep-2024 07:29:42 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 166
+[20-Sep-2024 07:32:32 UTC] PHP Warning:  Undefined variable $vat in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 153
+[20-Sep-2024 07:32:32 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 153
+[20-Sep-2024 07:32:32 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 154
+[20-Sep-2024 07:32:32 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 167
+[20-Sep-2024 07:32:32 UTC] PHP Warning:  Undefined variable $subtotal in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 176
+[20-Sep-2024 07:40:48 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 153
+[20-Sep-2024 07:40:48 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 154
+[20-Sep-2024 07:40:48 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 167
+[20-Sep-2024 07:41:53 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 153
+[20-Sep-2024 07:41:53 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 154
+[20-Sep-2024 07:41:53 UTC] PHP Warning:  Undefined variable $vat_rate in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 167
+[20-Sep-2024 07:53:45 UTC] PHP Warning:  Undefined variable $quote_id in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 89
+[20-Sep-2024 07:53:45 UTC] PHP Warning:  Undefined variable $quote_id in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 154
+[20-Sep-2024 07:53:45 UTC] PHP Warning:  Undefined variable $client in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 205
+[20-Sep-2024 07:53:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 205
+[20-Sep-2024 08:15:08 UTC] PHP Parse error:  syntax error, unexpected token "," in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 126
+[20-Sep-2024 08:15:29 UTC] PHP Parse error:  syntax error, unexpected token "}" in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 128
+[01-Oct-2024 19:21:59 UTC] PHP Warning:  require(fpdf/fpdf.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 2
+[01-Oct-2024 19:21:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 2
+[01-Oct-2024 19:29:09 UTC] PHP Warning:  fopen(logo.png): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 1275
+[01-Oct-2024 19:29:09 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: logo.png in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(1277): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(889): FPDF->_parsepng()
+#2 /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php(10): FPDF->Image()
+#3 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(336): PDF->Header()
+#4 /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php(25): FPDF->AddPage()
+#5 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 273
+[01-Oct-2024 19:32:57 UTC] PHP Warning:  fopen(logo.png): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 1275
+[01-Oct-2024 19:32:57 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: logo.png in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(1277): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(889): FPDF->_parsepng()
+#2 /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php(10): FPDF->Image()
+#3 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(336): PDF->Header()
+#4 /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php(25): FPDF->AddPage()
+#5 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 273
+[01-Oct-2024 19:35:04 UTC] PHP Warning:  Undefined array key "id" in /home/ot2ryobi838h/public_html/admin/fpdf/agreement.php on line 32
+[01-Oct-2024 19:35:04 UTC] PHP Warning:  include(../../configuration.inc.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/fpdf/agreement.php on line 33
+[01-Oct-2024 19:35:04 UTC] PHP Warning:  include(): Failed opening '../../configuration.inc.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/fpdf/agreement.php on line 33
+[01-Oct-2024 19:35:04 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/fpdf/agreement.php on line 40
+[01-Oct-2024 19:35:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ot2ryobi838h/public_html/admin/fpdf/agreement.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/agreement.php on line 40
+[02-Oct-2024 03:57:20 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: float + string in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php:583
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php(69): FPDF->Cell()
+#1 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 583
+[02-Oct-2024 04:32:32 UTC] PHP Warning:  Undefined variable $texto_convertido in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 113
+[02-Oct-2024 05:12:23 UTC] PHP Warning:  Undefined variable $pagina_ancho in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 99
+[02-Oct-2024 05:12:23 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 99
+[02-Oct-2024 05:12:23 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 103
+[02-Oct-2024 05:12:23 UTC] PHP Warning:  Undefined variable $texto_convertido in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 103
+[02-Oct-2024 05:14:44 UTC] PHP Warning:  Undefined variable $pagina_ancho in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 101
+[02-Oct-2024 05:14:44 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 101
+[02-Oct-2024 05:14:44 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 105
+[02-Oct-2024 05:14:44 UTC] PHP Warning:  Undefined variable $texto_convertido in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 105
+[02-Oct-2024 05:15:20 UTC] PHP Warning:  Undefined variable $pagina_ancho in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 101
+[02-Oct-2024 05:15:20 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 101
+[02-Oct-2024 05:15:20 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 105
+[02-Oct-2024 05:15:20 UTC] PHP Warning:  Undefined variable $texto_convertido in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 105
+[02-Oct-2024 05:15:43 UTC] PHP Warning:  Undefined variable $pagina_ancho in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 101
+[02-Oct-2024 05:15:43 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 101
+[02-Oct-2024 05:15:43 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 105
+[02-Oct-2024 05:15:43 UTC] PHP Warning:  Undefined variable $texto_convertido in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 105
+[02-Oct-2024 05:16:05 UTC] PHP Warning:  Undefined variable $pagina_ancho in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 101
+[02-Oct-2024 05:16:05 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 101
+[02-Oct-2024 05:16:05 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 105
+[02-Oct-2024 05:16:05 UTC] PHP Warning:  Undefined variable $texto_convertido in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 105
+[02-Oct-2024 05:16:09 UTC] PHP Warning:  Undefined variable $pagina_ancho in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 101
+[02-Oct-2024 05:16:09 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 101
+[02-Oct-2024 05:16:09 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 105
+[02-Oct-2024 05:16:09 UTC] PHP Warning:  Undefined variable $texto_convertido in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 105
+[02-Oct-2024 05:16:12 UTC] PHP Warning:  Undefined variable $pagina_ancho in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 101
+[02-Oct-2024 05:16:12 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 101
+[02-Oct-2024 05:16:12 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 105
+[02-Oct-2024 05:16:12 UTC] PHP Warning:  Undefined variable $texto_convertido in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 105
+[02-Oct-2024 05:16:58 UTC] PHP Warning:  Undefined variable $pagina_ancho in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 101
+[02-Oct-2024 05:16:58 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 101
+[02-Oct-2024 05:16:58 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 105
+[02-Oct-2024 05:16:58 UTC] PHP Warning:  Undefined variable $texto_convertido in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 105
+[02-Oct-2024 05:18:03 UTC] PHP Warning:  Undefined variable $pagina_ancho in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 101
+[02-Oct-2024 05:18:03 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 101
+[02-Oct-2024 05:18:03 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 105
+[02-Oct-2024 05:18:03 UTC] PHP Warning:  Undefined variable $texto_convertido in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 105
+[02-Oct-2024 05:19:00 UTC] PHP Warning:  Undefined variable $pagina_ancho in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 101
+[02-Oct-2024 05:19:00 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 101
+[02-Oct-2024 05:19:00 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 105
+[02-Oct-2024 05:19:00 UTC] PHP Warning:  Undefined variable $texto_convertido in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 105
+[02-Oct-2024 05:19:23 UTC] PHP Warning:  Undefined variable $pagina_ancho in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 101
+[02-Oct-2024 05:19:23 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 101
+[02-Oct-2024 05:19:23 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 105
+[02-Oct-2024 05:19:23 UTC] PHP Warning:  Undefined variable $texto_convertido in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 105
+[02-Oct-2024 05:20:33 UTC] PHP Warning:  Undefined variable $pagina_ancho in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 99
+[02-Oct-2024 05:20:33 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 99
+[02-Oct-2024 05:20:33 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 103
+[02-Oct-2024 05:20:33 UTC] PHP Warning:  Undefined variable $texto_convertido in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 103
+[02-Oct-2024 05:25:29 UTC] PHP Warning:  Undefined variable $pagina_ancho in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 124
+[02-Oct-2024 05:25:29 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 124
+[02-Oct-2024 05:25:29 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 128
+[02-Oct-2024 05:25:29 UTC] PHP Warning:  Undefined variable $texto_convertido in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 128
+[02-Oct-2024 05:27:07 UTC] PHP Warning:  Undefined variable $pagina_ancho in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 124
+[02-Oct-2024 05:27:07 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 124
+[02-Oct-2024 05:27:07 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 128
+[02-Oct-2024 05:27:07 UTC] PHP Warning:  Undefined variable $texto_convertido in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 128
+[02-Oct-2024 05:28:09 UTC] PHP Warning:  Undefined variable $pagina_ancho in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 125
+[02-Oct-2024 05:28:09 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 125
+[02-Oct-2024 05:28:09 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 129
+[02-Oct-2024 05:28:09 UTC] PHP Warning:  Undefined variable $texto_convertido in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 129
+[02-Oct-2024 05:28:37 UTC] PHP Warning:  Undefined variable $pagina_ancho in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 124
+[02-Oct-2024 05:28:37 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 124
+[02-Oct-2024 05:28:37 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 128
+[02-Oct-2024 05:28:37 UTC] PHP Warning:  Undefined variable $texto_convertido in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 128
+[02-Oct-2024 05:32:10 UTC] PHP Warning:  Undefined variable $pagina_ancho in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 150
+[02-Oct-2024 05:32:10 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 150
+[02-Oct-2024 05:32:10 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 154
+[02-Oct-2024 05:32:10 UTC] PHP Warning:  Undefined variable $texto_convertido in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 154
+[02-Oct-2024 05:34:02 UTC] PHP Warning:  Undefined variable $pagina_ancho in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 150
+[02-Oct-2024 05:34:02 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 150
+[02-Oct-2024 05:34:02 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 154
+[02-Oct-2024 05:34:02 UTC] PHP Warning:  Undefined variable $texto_convertido in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 154
+[02-Oct-2024 05:34:22 UTC] PHP Warning:  Undefined variable $pagina_ancho in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 150
+[02-Oct-2024 05:34:22 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 150
+[02-Oct-2024 05:34:22 UTC] PHP Warning:  Undefined variable $ancho_texto in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 154
+[02-Oct-2024 05:34:22 UTC] PHP Warning:  Undefined variable $texto_convertido in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 154
+[02-Oct-2024 05:54:40 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php:171
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 171
+[02-Oct-2024 05:55:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "L" in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 173
+[02-Oct-2024 05:55:32 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php:171
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 171
+[02-Oct-2024 05:57:25 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php:171
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 171
+[02-Oct-2024 07:12:20 UTC] PHP Parse error:  syntax error, unexpected variable "$analist_name" in /home/ot2ryobi838h/public_html/admin/fpdf/proof_of_employment.php on line 192
+[20-Oct-2024 15:59:51 UTC] PHP Warning:  fopen(https://ikusa.net/images/logo.png): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 1275
+[20-Oct-2024 15:59:51 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: https://ikusa.net/images/logo.png in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(1277): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(889): FPDF->_parsepng()
+#2 /home/ot2ryobi838h/public_html/admin/fpdf/quote.php(35): FPDF->Image()
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 273
+[20-Oct-2024 16:00:06 UTC] PHP Warning:  fopen(https://ikusa.net/images/logo.png): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 1275
+[20-Oct-2024 16:00:06 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: https://ikusa.net/images/logo.png in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(1277): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(889): FPDF->_parsepng()
+#2 /home/ot2ryobi838h/public_html/admin/fpdf/quote.php(35): FPDF->Image()
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 273
+[20-Oct-2024 16:00:26 UTC] PHP Warning:  fopen(https://ikusa.net/images/logo.png): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 1275
+[20-Oct-2024 16:00:26 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: https://ikusa.net/images/logo.png in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(1277): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(889): FPDF->_parsepng()
+#2 /home/ot2ryobi838h/public_html/admin/fpdf/quote.php(35): FPDF->Image()
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 273
+[01-Nov-2024 07:46:31 UTC] PHP Warning:  fopen(https://ikusa.net/images/logo.png): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 1275
+[01-Nov-2024 07:46:31 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: https://ikusa.net/images/logo.png in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(1277): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(889): FPDF->_parsepng()
+#2 /home/ot2ryobi838h/public_html/admin/fpdf/quote.php(35): FPDF->Image()
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 273
+[01-Nov-2024 07:46:53 UTC] PHP Warning:  fopen(https://ikusa.net/images/logo.png): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 1275
+[01-Nov-2024 07:46:53 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: https://ikusa.net/images/logo.png in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(1277): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(889): FPDF->_parsepng()
+#2 /home/ot2ryobi838h/public_html/admin/fpdf/quote.php(35): FPDF->Image()
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 273
+[01-Nov-2024 07:49:00 UTC] PHP Warning:  include(../../configuration.inc.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/fpdf/agreement.php on line 33
+[01-Nov-2024 07:49:00 UTC] PHP Warning:  include(): Failed opening '../../configuration.inc.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/fpdf/agreement.php on line 33
+[01-Nov-2024 07:49:00 UTC] PHP Warning:  fopen(https://ikusa.net/images/logo.png): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 1275
+[01-Nov-2024 07:49:00 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: https://ikusa.net/images/logo.png in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(1277): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(889): FPDF->_parsepng()
+#2 /home/ot2ryobi838h/public_html/admin/fpdf/agreement.php(10): FPDF->Image()
+#3 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(336): PDF->Header()
+#4 /home/ot2ryobi838h/public_html/admin/fpdf/agreement.php(37): FPDF->AddPage()
+#5 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 273
+[01-Nov-2024 07:57:37 UTC] PHP Warning:  fopen(https://ikusa.net/images/logo.png): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 1275
+[01-Nov-2024 07:57:37 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: https://ikusa.net/images/logo.png in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(1277): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(889): FPDF->_parsepng()
+#2 /home/ot2ryobi838h/public_html/admin/fpdf/quote.php(35): FPDF->Image()
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 273
+[01-Nov-2024 07:57:49 UTC] PHP Warning:  fopen(https://ikusa.net/images/logo.png): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 1275
+[01-Nov-2024 07:57:49 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: https://ikusa.net/images/logo.png in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(1277): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(889): FPDF->_parsepng()
+#2 /home/ot2ryobi838h/public_html/admin/fpdf/quote.php(35): FPDF->Image()
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 273
+[01-Nov-2024 08:05:08 UTC] PHP Warning:  fopen(https://ikusa.net/images/logo.png): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 1275
+[01-Nov-2024 08:05:08 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: https://ikusa.net/images/logo.png in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(1277): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(889): FPDF->_parsepng()
+#2 /home/ot2ryobi838h/public_html/admin/fpdf/quote.php(35): FPDF->Image()
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 273
+[01-Nov-2024 08:07:02 UTC] PHP Warning:  fopen(https://ikusa.net/images/logo.png): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 1275
+[01-Nov-2024 08:07:02 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: https://ikusa.net/images/logo.png in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(1277): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(889): FPDF->_parsepng()
+#2 /home/ot2ryobi838h/public_html/admin/fpdf/quote.php(35): FPDF->Image()
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 273
+[01-Nov-2024 08:20:24 UTC] PHP Warning:  fopen(https://ikusa.net/images/logo.png): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 1275
+[01-Nov-2024 08:20:24 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: https://ikusa.net/images/logo.png in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(1277): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(889): FPDF->_parsepng()
+#2 /home/ot2ryobi838h/public_html/admin/fpdf/quote.php(35): FPDF->Image()
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 273
+[01-Nov-2024 08:21:17 UTC] PHP Warning:  fopen(https://ikusa.net/images/logo.png): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 1275
+[01-Nov-2024 08:21:17 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: https://ikusa.net/images/logo.png in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(1277): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(889): FPDF->_parsepng()
+#2 /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php(35): FPDF->Image()
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 273
+[01-Nov-2024 08:21:23 UTC] PHP Warning:  fopen(https://ikusa.net/images/logo.png): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 1275
+[01-Nov-2024 08:21:23 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: https://ikusa.net/images/logo.png in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(1277): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(889): FPDF->_parsepng()
+#2 /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php(35): FPDF->Image()
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 273
+[01-Nov-2024 08:21:29 UTC] PHP Warning:  fopen(https://ikusa.net/images/logo.png): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 1275
+[01-Nov-2024 08:21:29 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: https://ikusa.net/images/logo.png in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(1277): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(889): FPDF->_parsepng()
+#2 /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php(35): FPDF->Image()
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 273
+[01-Nov-2024 08:23:06 UTC] PHP Warning:  fopen(https://ikusa.net/images/logo.png): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 1275
+[01-Nov-2024 08:23:06 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: https://ikusa.net/images/logo.png in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(1277): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(889): FPDF->_parsepng()
+#2 /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php(36): FPDF->Image()
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 273
+[01-Nov-2024 08:25:24 UTC] PHP Warning:  fopen(https://ikusa.net/images/logo.png): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 1275
+[01-Nov-2024 08:25:24 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: https://ikusa.net/images/logo.png in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(1277): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(889): FPDF->_parsepng()
+#2 /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php(36): FPDF->Image()
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 273
+[01-Nov-2024 08:43:50 UTC] PHP Warning:  fopen(https://ikusa.net/images/logo.png): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 1275
+[01-Nov-2024 08:43:50 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: https://ikusa.net/images/logo.png in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(1277): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(889): FPDF->_parsepng()
+#2 /home/ot2ryobi838h/public_html/admin/fpdf/quote.php(35): FPDF->Image()
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 273
+[01-Nov-2024 08:47:49 UTC] PHP Warning:  include(../app/config/connection.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 7
+[01-Nov-2024 08:47:49 UTC] PHP Warning:  include(): Failed opening '../app/config/connection.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 7
+[01-Nov-2024 08:47:49 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 10
+[01-Nov-2024 08:47:49 UTC] PHP Warning:  Attempt to read property "connect_errno" on null in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 10
+[01-Nov-2024 08:47:49 UTC] PHP Warning:  fopen(https://ikusa.net/images/logo.png): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 1275
+[01-Nov-2024 08:47:49 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: https://ikusa.net/images/logo.png in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(1277): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(889): FPDF->_parsepng()
+#2 /home/ot2ryobi838h/public_html/admin/fpdf/quote.php(35): FPDF->Image()
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 273
+[01-Nov-2024 08:48:06 UTC] PHP Warning:  fopen(https://ikusa.net/images/logo.png): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 1275
+[01-Nov-2024 08:48:06 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: https://ikusa.net/images/logo.png in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(1277): FPDF->Error()
+#1 /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php(889): FPDF->_parsepng()
+#2 /home/ot2ryobi838h/public_html/admin/fpdf/quote.php(35): FPDF->Image()
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/fpdf.php on line 273
+[01-Nov-2024 11:27:23 UTC] PHP Warning:  Undefined variable $x in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 40
+[01-Nov-2024 11:27:23 UTC] PHP Warning:  Undefined variable $y in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 40
+[01-Nov-2024 11:27:23 UTC] PHP Warning:  Undefined variable $x in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 43
+[01-Nov-2024 11:27:23 UTC] PHP Warning:  Undefined variable $x in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 45
+[01-Nov-2024 11:27:23 UTC] PHP Warning:  Undefined variable $x in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 47
+[01-Nov-2024 11:27:23 UTC] PHP Warning:  Undefined variable $x in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 49
+[22-Nov-2024 09:58:51 UTC] PHP Warning:  include(../../app/config/connection.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 5
+[22-Nov-2024 09:58:51 UTC] PHP Warning:  include(): Failed opening '../../app/config/connection.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 5
+[22-Nov-2024 09:58:51 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 7
+[22-Nov-2024 09:58:51 UTC] PHP Warning:  Attempt to read property "connect_errno" on null in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 7
+[22-Nov-2024 09:58:51 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 38
+[22-Nov-2024 09:58:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 38
+[22-Nov-2024 09:59:50 UTC] PHP Warning:  include(../../app/config/connection.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 5
+[22-Nov-2024 09:59:50 UTC] PHP Warning:  include(): Failed opening '../../app/config/connection.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 5
+[22-Nov-2024 09:59:50 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 7
+[22-Nov-2024 09:59:50 UTC] PHP Warning:  Attempt to read property "connect_errno" on null in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 7
+[22-Nov-2024 09:59:50 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 38
+[22-Nov-2024 09:59:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/quote.php on line 38
+[27-Nov-2024 10:48:05 UTC] PHP Warning:  include(../../app/config/connection.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 9
+[27-Nov-2024 10:48:05 UTC] PHP Warning:  include(): Failed opening '../../app/config/connection.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 9
+[27-Nov-2024 10:48:05 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 11
+[27-Nov-2024 10:48:05 UTC] PHP Warning:  Attempt to read property "connect_errno" on null in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 11
+[27-Nov-2024 10:48:05 UTC] PHP Warning:  Undefined variable $mysqli in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 84
+[27-Nov-2024 10:48:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 84
+[27-Nov-2024 10:54:22 UTC] PHP Warning:  Undefined variable $quotes in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 13
+[27-Nov-2024 10:54:22 UTC] PHP Warning:  Undefined variable $quote_id in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 36
+[27-Nov-2024 10:54:22 UTC] PHP Warning:  Undefined variable $quote_id in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 43
+[27-Nov-2024 10:54:22 UTC] PHP Warning:  Undefined variable $quote_id in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 118
+[27-Nov-2024 10:54:22 UTC] PHP Warning:  Undefined variable $quote_id in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 162
+[27-Nov-2024 10:54:59 UTC] PHP Warning:  Undefined variable $quotes in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 14
+[27-Nov-2024 10:54:59 UTC] PHP Warning:  Undefined variable $quote_id in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 37
+[27-Nov-2024 10:54:59 UTC] PHP Warning:  Undefined variable $quote_id in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 44
+[27-Nov-2024 10:54:59 UTC] PHP Warning:  Undefined variable $quote_id in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 119
+[27-Nov-2024 10:54:59 UTC] PHP Warning:  Undefined variable $quote_id in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 163
+[27-Nov-2024 10:55:03 UTC] PHP Warning:  Undefined variable $quotes in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 14
+[27-Nov-2024 10:55:03 UTC] PHP Warning:  Undefined variable $quote_id in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 37
+[27-Nov-2024 10:55:03 UTC] PHP Warning:  Undefined variable $quote_id in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 44
+[27-Nov-2024 10:55:03 UTC] PHP Warning:  Undefined variable $quote_id in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 119
+[27-Nov-2024 10:55:03 UTC] PHP Warning:  Undefined variable $quote_id in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 163
+[27-Nov-2024 10:56:21 UTC] PHP Warning:  Undefined array key "client_id" in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 15
+[08-Dec-2024 16:04:40 UTC] PHP Warning:  Undefined array key "client_id" in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 15
+[28-Jan-2025 13:26:18 UTC] PHP Warning:  Undefined variable $lineY in /home/ot2ryobi838h/public_html/admin/fpdf/invoice.php on line 166

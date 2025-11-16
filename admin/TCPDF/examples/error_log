@@ -1,0 +1,217 @@
+[13-Sep-2024 11:00:49 UTC] PHP Warning:  Undefined array key "id" in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/budget.php on line 4
+[13-Sep-2024 11:36:35 UTC] PHP Warning:  Undefined array key "budget" in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 4
+[13-Sep-2024 11:36:35 UTC] PHP Warning:  Undefined array key "invoice" in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 5
+[13-Sep-2024 11:36:35 UTC] PHP Warning:  Undefined array key "down_payment" in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 6
+[13-Sep-2024 11:36:35 UTC] PHP Warning:  Undefined variable $clientId in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 16
+[13-Sep-2024 11:36:35 UTC] PHP Warning:  Undefined variable $serviceDate in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 112
+[13-Sep-2024 11:36:35 UTC] PHP Warning:  Undefined variable $serviceAddress in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 116
+[13-Sep-2024 11:36:35 UTC] PHP Warning:  Undefined variable $clientName in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 130
+[13-Sep-2024 11:36:35 UTC] PHP Warning:  Undefined variable $clientNIF in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 133
+[13-Sep-2024 11:36:35 UTC] PHP Warning:  Undefined variable $clientAddress in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 137
+[13-Sep-2024 11:38:57 UTC] PHP Warning:  Undefined array key "budget" in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 4
+[13-Sep-2024 11:38:57 UTC] PHP Warning:  Undefined variable $clientId in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 16
+[13-Sep-2024 11:38:57 UTC] PHP Warning:  Undefined variable $invoice_id in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 27
+[13-Sep-2024 11:38:57 UTC] PHP Warning:  Undefined variable $serviceDate in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 112
+[13-Sep-2024 11:38:57 UTC] PHP Warning:  Undefined variable $serviceAddress in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 116
+[13-Sep-2024 11:38:57 UTC] PHP Warning:  Undefined variable $clientName in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 130
+[13-Sep-2024 11:38:57 UTC] PHP Warning:  Undefined variable $clientNIF in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 133
+[13-Sep-2024 11:38:57 UTC] PHP Warning:  Undefined variable $clientAddress in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 137
+[13-Sep-2024 11:38:57 UTC] PHP Warning:  Undefined variable $down_payment in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 199
+[13-Sep-2024 11:38:57 UTC] PHP Warning:  Undefined variable $down_payment in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 200
+[13-Sep-2024 11:39:12 UTC] PHP Warning:  Undefined array key "budget" in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 4
+[13-Sep-2024 11:39:12 UTC] PHP Warning:  Undefined variable $clientId in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 16
+[13-Sep-2024 11:39:12 UTC] PHP Warning:  Undefined variable $invoice_id in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 27
+[13-Sep-2024 11:39:12 UTC] PHP Warning:  Undefined variable $logoPath in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 75
+[13-Sep-2024 11:39:12 UTC] PHP Warning:  Undefined variable $serviceDate in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 112
+[13-Sep-2024 11:39:12 UTC] PHP Warning:  Undefined variable $serviceAddress in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 116
+[13-Sep-2024 11:39:12 UTC] PHP Warning:  Undefined variable $clientName in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 130
+[13-Sep-2024 11:39:12 UTC] PHP Warning:  Undefined variable $clientNIF in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 133
+[13-Sep-2024 11:39:12 UTC] PHP Warning:  Undefined variable $clientAddress in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 137
+[13-Sep-2024 11:39:12 UTC] PHP Warning:  Undefined variable $down_payment in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 199
+[13-Sep-2024 11:39:12 UTC] PHP Warning:  Undefined variable $down_payment in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 200
+[13-Sep-2024 11:39:31 UTC] PHP Warning:  Undefined array key "budget" in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 4
+[13-Sep-2024 11:39:31 UTC] PHP Warning:  Undefined variable $clientId in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 16
+[13-Sep-2024 11:39:31 UTC] PHP Warning:  Undefined variable $invoice_id in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 27
+[13-Sep-2024 11:39:31 UTC] PHP Warning:  Undefined variable $serviceDate in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 112
+[13-Sep-2024 11:39:31 UTC] PHP Warning:  Undefined variable $serviceAddress in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 116
+[13-Sep-2024 11:39:31 UTC] PHP Warning:  Undefined variable $clientName in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 130
+[13-Sep-2024 11:39:31 UTC] PHP Warning:  Undefined variable $clientNIF in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 133
+[13-Sep-2024 11:39:31 UTC] PHP Warning:  Undefined variable $clientAddress in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 137
+[13-Sep-2024 11:39:31 UTC] PHP Warning:  Undefined variable $down_payment in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 199
+[13-Sep-2024 11:39:31 UTC] PHP Warning:  Undefined variable $down_payment in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 200
+[13-Sep-2024 11:41:22 UTC] PHP Warning:  Undefined array key "id" in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 4
+[13-Sep-2024 11:41:22 UTC] PHP Warning:  Undefined variable $clientId in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 16
+[13-Sep-2024 11:41:22 UTC] PHP Warning:  Undefined variable $invoice_id in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 27
+[13-Sep-2024 11:42:34 UTC] PHP Warning:  Undefined array key "id" in /home/ot2ryobi838h/public_html/admin/require/TCPDF/examples/invoice.php on line 4
+[06-Oct-2024 10:40:38 UTC] PHP Warning:  Undefined array key "id" in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php on line 4
+[06-Oct-2024 10:40:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ikusa.budgets_details' doesn't exist in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php:77
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php(77): mysqli->query()
+#1 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php on line 77
+[06-Oct-2024 10:40:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ikusa.budgets_details' doesn't exist in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php:77
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php(77): mysqli->query()
+#1 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php on line 77
+[06-Oct-2024 10:41:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ikusa.budgets_details' doesn't exist in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php:77
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php(77): mysqli->query()
+#1 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php on line 77
+[06-Oct-2024 10:41:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ikusa.budgets_details' doesn't exist in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php:77
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php(77): mysqli->query()
+#1 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php on line 77
+[06-Oct-2024 10:42:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ikusa.budgets_details' doesn't exist in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php:77
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php(77): mysqli->query()
+#1 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php on line 77
+[06-Oct-2024 12:59:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ikusa.budgets_details' doesn't exist in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php:77
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php(77): mysqli->query()
+#1 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php on line 77
+[06-Oct-2024 13:31:40 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/proof_employment.php on line 97
+[06-Oct-2024 13:53:17 UTC] PHP Warning:  Undefined variable $pdf in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/proof_employment.php on line 34
+[06-Oct-2024 13:53:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function setHeaderData() on null in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/proof_employment.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/proof_employment.php on line 34
+[06-Oct-2024 14:23:23 UTC] PHP Parse error:  syntax error, unexpected token "/" in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/proof_employment.php on line 104
+[06-Oct-2024 14:39:46 UTC] PHP Parse error:  syntax error, unexpected variable "$pdf" in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/proof_employment.php on line 122
+[06-Oct-2024 14:40:18 UTC] PHP Warning:  Undefined variable $tax_info in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/proof_employment.php on line 120
+[06-Oct-2024 14:40:18 UTC] PHP Warning:  Undefined variable $filled in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/proof_employment.php on line 120
+[06-Oct-2024 14:40:18 UTC] PHP Warning:  Undefined variable $company_info in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/proof_employment.php on line 120
+[06-Oct-2024 14:41:04 UTC] PHP Warning:  Undefined variable $tax_info in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/proof_employment.php on line 120
+[06-Oct-2024 14:41:04 UTC] PHP Warning:  Undefined variable $filled in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/proof_employment.php on line 120
+[06-Oct-2024 14:41:04 UTC] PHP Warning:  Undefined variable $company_info in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/proof_employment.php on line 120
+[06-Oct-2024 14:44:18 UTC] PHP Warning:  Undefined variable $tax_info in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/proof_employment.php on line 120
+[06-Oct-2024 14:44:18 UTC] PHP Warning:  Undefined variable $filled in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/proof_employment.php on line 120
+[06-Oct-2024 14:44:18 UTC] PHP Warning:  Undefined variable $company_info in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/proof_employment.php on line 120
+[06-Oct-2024 14:45:20 UTC] PHP Warning:  Undefined variable $company_info in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/proof_employment.php on line 123
+[06-Oct-2024 14:46:12 UTC] PHP Warning:  Undefined variable $company_info in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/proof_employment.php on line 123
+[06-Oct-2024 14:48:32 UTC] PHP Warning:  Undefined variable $company_info in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/proof_employment.php on line 124
+[06-Oct-2024 14:49:19 UTC] PHP Warning:  Undefined variable $company_info in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/proof_employment.php on line 124
+[01-Nov-2024 07:51:17 UTC] PHP Warning:  require_once(../../../database.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php on line 3
+[01-Nov-2024 07:51:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../database.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php on line 3
+[01-Nov-2024 07:59:50 UTC] PHP Warning:  require_once(../../../database.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php on line 3
+[01-Nov-2024 07:59:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../database.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php on line 3
+[01-Nov-2024 08:05:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ikusa.budgets_details' doesn't exist in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php:77
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php(77): mysqli->query()
+#1 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php on line 77
+[01-Nov-2024 08:06:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ikusa.budgets_details' doesn't exist in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php:77
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php(77): mysqli->query()
+#1 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php on line 77
+[01-Nov-2024 08:06:45 UTC] PHP Warning:  require_once(../app/config/connection.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php on line 3
+[01-Nov-2024 08:06:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../app/config/connection.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php on line 3
+[01-Nov-2024 08:07:07 UTC] PHP Warning:  require_once(../../app/config/connection.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php on line 3
+[01-Nov-2024 08:07:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../app/config/connection.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php on line 3
+[01-Nov-2024 08:08:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ikusa.budgets_details' doesn't exist in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php:77
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php(77): mysqli->query()
+#1 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php on line 77
+[10-Mar-2025 19:13:35 UTC] PHP Warning:  require(tcpdf.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/carnet.php on line 45
+[10-Mar-2025 19:13:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/carnet.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/carnet.php on line 45
+[10-Mar-2025 19:14:39 UTC] PHP Warning:  Undefined variable $pdf in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/carnet.php on line 38
+[10-Mar-2025 19:14:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function setCreator() on null in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/carnet.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/carnet.php on line 38
+[10-Mar-2025 19:15:31 UTC] PHP Warning:  Undefined variable $pdf in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/carnet.php on line 38
+[10-Mar-2025 19:15:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function setCreator() on null in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/carnet.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/carnet.php on line 38
+[10-Mar-2025 19:16:04 UTC] PHP Warning:  Undefined variable $pdf in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/carnet.php on line 38
+[10-Mar-2025 19:16:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function setCreator() on null in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/carnet.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/carnet.php on line 38
+[10-Mar-2025 19:16:40 UTC] PHP Warning:  Undefined variable $pdf in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/carnet.php on line 38
+[10-Mar-2025 19:16:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function setCreator() on null in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/carnet.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/carnet.php on line 38
+[10-Mar-2025 19:16:42 UTC] PHP Warning:  Undefined variable $pdf in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/carnet.php on line 38
+[10-Mar-2025 19:16:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function setCreator() on null in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/carnet.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/carnet.php on line 38
+[10-Mar-2025 19:18:25 UTC] PHP Fatal error:  Uncaught Error: Class "PDF" not found in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/carnet.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/carnet.php on line 35
+[10-Mar-2025 19:28:06 UTC] PHP Warning:  Uninitialized string offset 1 in /home/ot2ryobi838h/public_html/admin/TCPDF/tcpdf.php on line 12244
+[10-Mar-2025 19:28:06 UTC] PHP Warning:  Uninitialized string offset 2 in /home/ot2ryobi838h/public_html/admin/TCPDF/tcpdf.php on line 12252
+[10-Mar-2025 19:28:06 UTC] PHP Warning:  Uninitialized string offset 3 in /home/ot2ryobi838h/public_html/admin/TCPDF/tcpdf.php on line 12260
+[10-Mar-2025 19:30:44 UTC] PHP Fatal error:  Declaration of PDF::RoundedRect($x, $y, $w, $h, $r, $style = 'F') must be compatible with TCPDF::RoundedRect($x, $y, $w, $h, $r, $round_corner = '1111', $style = '', $border_style = [], $fill_color = []) in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/carnet.php on line 9
+[10-Mar-2025 19:31:04 UTC] PHP Warning:  Uninitialized string offset 1 in /home/ot2ryobi838h/public_html/admin/TCPDF/tcpdf.php on line 12244
+[10-Mar-2025 19:31:04 UTC] PHP Warning:  Uninitialized string offset 2 in /home/ot2ryobi838h/public_html/admin/TCPDF/tcpdf.php on line 12252
+[10-Mar-2025 19:31:04 UTC] PHP Warning:  Uninitialized string offset 3 in /home/ot2ryobi838h/public_html/admin/TCPDF/tcpdf.php on line 12260
+[11-Mar-2025 04:46:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method TCPDF::setColorMode() in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/carnet.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/carnet.php on line 10
+[11-Mar-2025 04:47:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method TCPDF::setColorMode() in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/carnet.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/carnet.php on line 40
+[01-Apr-2025 13:58:34 UTC] PHP Warning:  require(fpdf/fpdf.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/agreement.php on line 12
+[01-Apr-2025 13:58:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/agreement.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/agreement.php on line 12
+[01-Apr-2025 14:16:23 UTC] PHP Warning:  require(fpdf/fpdf.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/agreement.php on line 12
+[01-Apr-2025 14:16:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/agreement.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/agreement.php on line 12
+[23-Apr-2025 12:24:05 UTC] PHP Warning:  require(fpdf/fpdf.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/agreement.php on line 12
+[23-Apr-2025 12:24:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/agreement.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/agreement.php on line 12
+[14-Jun-2025 21:09:16 UTC] PHP Warning:  require(fpdf/fpdf.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/agreement.php on line 12
+[14-Jun-2025 21:09:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/agreement.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/agreement.php on line 12
+[25-Jun-2025 15:58:36 UTC] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/a.php on line 2
+[25-Jun-2025 15:58:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/a.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/a.php on line 2
+[25-Jun-2025 16:00:43 UTC] PHP Warning:  require(fpdf/fpdf.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/agreement.php on line 12
+[25-Jun-2025 16:00:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/agreement.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/agreement.php on line 12
+[25-Jun-2025 16:01:22 UTC] PHP Warning:  require_once(../../../app/config/connection.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php on line 3
+[25-Jun-2025 16:01:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../app/config/connection.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/budget.php on line 3
+[25-Jun-2025 16:02:08 UTC] PHP Parse error:  syntax error, unexpected variable "$pdf" in /home/ot2ryobi838h/public_html/admin/TCPDF/examples/a.php on line 5

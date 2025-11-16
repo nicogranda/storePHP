@@ -1,0 +1,22 @@
+[2025-10-27 15:39:53] Antes de crear variante: Array
+(
+    [product_id] => 58
+    [sku] => earrings-gold
+    [price] => 29
+    [stock] => 12
+    [weight] => 12
+    [image_url] => /products/58/images/earrings-gold-68ff9248d3d56.png
+    [is_active] => 1
+)
+
+[2025-10-27 15:47:46] Antes de crear variante: Array
+(
+    [product_id] => 59
+    [sku] => earrings-gold
+    [price] => 29
+    [stock] => 12
+    [weight] => 12
+    [image_url] => /products/59/images/earrings-gold-68ff9421c44a6.png
+    [is_active] => 1
+)
+

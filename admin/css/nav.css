@@ -1,0 +1,133 @@
+nav {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.no-bullets {
+    list-style-type: none;
+    padding: 0; /* Elimina sangría */
+    margin: 0; /* Elimina espacio vertical */
+}
+
+.burger-menu {
+    position: fixed;
+    top: 20px; /* Ajusta la posición desde la parte superior */
+    left: 20px; /* Ajusta la posición desde la izquierda */
+    width: 30px;
+    height: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    cursor: pointer;
+    z-index: 1000; /* Asegura que el menú esté por encima de otros elementos */
+}
+
+.burger-menu .bar {
+    width: 100%;
+    height: 4px;
+    background-color: black; /* Color de las barras */
+    transition: all 0.3s ease;
+}
+
+/* Animaciones para el menú cuando está activo */
+.burger-menu.active .bar:nth-child(1) {
+    transform: rotate(45deg) translate(5px, 5px);
+}
+
+.burger-menu.active .bar:nth-child(2) {
+    opacity: 0;
+}
+
+.burger-menu.active .bar:nth-child(3) {
+    transform: rotate(-45deg) translate(5px, -5px);
+}
+
+.menu {
+    position: fixed;
+    top: 50px;
+    left: -100px; /* Inicialmente está fuera de la pantalla */
+    width: 10%; /* Menú ocupa el 10% del ancho en dispositivos móviles */
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Alinea los enlaces en la parte superior */
+    align-items: flex-start; /* Alinea los enlaces al inicio del contenedor */
+    transition: left 0.3s ease;
+    z-index: 999;
+    color: white;
+}
+
+.menu.active {
+    left: 20px; /* El menú se muestra cuando tiene la clase 'active' */
+}
+
+.menu a {
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+}
+
+.menu a:hover {
+    color: var(--color-primary); /* Cambia el color al pasar el mouse */
+    background-color: #f0f0f0; /* Fondo cuando se pasa el mouse */
+}
+
+#quote {
+    position: fixed;
+    right: 0;
+    top: 20px;
+    width: 70px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--color-primary);
+}
+
+#quote a {
+    text-decoration: none;
+    color: white;
+}
+
+/* Media Queries para dispositivos móviles */
+@media only screen and (max-width: 600px) {
+    /* Menú ocupa el 90% del ancho en dispositivos móviles */
+    .menu {
+        width: 90%; /* Ajuste de tamaño del menú en pantallas móviles */
+        left: 20px; /* Está fuera de la pantalla inicialmente */
+    }
+
+    /* Menú aparece cuando está activo */
+    .menu.active {
+        left: 20px; /* Mueve el menú a la izquierda para mostrarlo */
+    }
+
+    /* Estilización del ícono del menú */
+    .burger-menu {
+        left: 20px; /* Posiciona el ícono a la izquierda */
+        top: 20px; /* Ajusta la altura del ícono */
+        width: 35px; /* Aumenta el tamaño del ícono */
+        height: 30px; /* Aumenta el tamaño del ícono */
+    }
+
+    /* Ajuste de tamaño de las barras del ícono del menú */
+    .burger-menu .bar {
+        height: 5px; /* Hace las barras más gruesas */
+    }
+
+    /* Ajustes a los enlaces dentro del menú */
+    .menu a {
+        font-size: 20px; /* Aumenta el tamaño de la fuente de los enlaces */
+        padding: 15px; /* Aumenta el espacio dentro de los enlaces */
+    }
+
+    /* Ajuste para el botón de cita */
+    #quote {
+        right: 10px; /* Ajusta la posición */
+        top: 20px; /* Ajusta la posición */
+        width: 60px; /* Ajusta el tamaño */
+        height: 60px; /* Ajusta el tamaño */
+    }
+}
